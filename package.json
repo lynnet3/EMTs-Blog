@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lynnet3/EMTs-Blog/issues"
   },
-  "homepage": "https://github.com/lynnet3/EMTs-Blog#readme"
+  "homepage": "https://github.com/lynnet3/EMTs-Blog#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
 }
